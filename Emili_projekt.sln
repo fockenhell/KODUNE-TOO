@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emili_projekt.Plugins", "Emili_projekt.Plugins.csproj", "{EFBF7324-6BB4-8644-2BE3-20A39BA00A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emili_projekt", "Emili_projekt.csproj", "{BEA50156-514A-8D85-DED9-9C79451636A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emili_projekt.Editor.Plugins", "Emili_projekt.Editor.Plugins.csproj", "{8AB443BB-0FE1-2900-3B09-CB754467D92A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFBF7324-6BB4-8644-2BE3-20A39BA00A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBF7324-6BB4-8644-2BE3-20A39BA00A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBF7324-6BB4-8644-2BE3-20A39BA00A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBF7324-6BB4-8644-2BE3-20A39BA00A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA50156-514A-8D85-DED9-9C79451636A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA50156-514A-8D85-DED9-9C79451636A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA50156-514A-8D85-DED9-9C79451636A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA50156-514A-8D85-DED9-9C79451636A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB443BB-0FE1-2900-3B09-CB754467D92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB443BB-0FE1-2900-3B09-CB754467D92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB443BB-0FE1-2900-3B09-CB754467D92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB443BB-0FE1-2900-3B09-CB754467D92A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
